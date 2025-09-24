@@ -1,1 +1,3 @@
 # laravel-mart
+
+\APP\HTTP\Controllers\Auth\AuthenticatedSessionControllerのstoreメソッドを編集をしてログイン後のデフォルトのページを決める
